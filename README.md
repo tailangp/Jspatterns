@@ -1,1 +1,1 @@
-# Jspatterns
+# Java Script Design Patterns
