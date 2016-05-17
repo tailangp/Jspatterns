@@ -1,0 +1,22 @@
+{
+  "name": "jspatterns",
+  "version": "1.0.0",
+  "description": "Javascript Patterns Samples",
+  "main": "Constructor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tailangp/Jspatterns.git"
+  },
+  "author": "Prashant Tailang",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/tailangp/Jspatterns/issues"
+  },
+  "homepage": "https://github.com/tailangp/Jspatterns#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
+}
